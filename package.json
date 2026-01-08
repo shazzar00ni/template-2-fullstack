@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "@ai-sdk/anthropic": "^0.0.48",
-    "@ai-sdk/openai": "^0.0.54",
+    "@ai-sdk/openai": "^2.0.88",
     "@deepgram/sdk": "^3.6.0",
     "ai": "^5.0.52",
     "date-fns": "^3.6.0",
